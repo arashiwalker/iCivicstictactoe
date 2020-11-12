@@ -1,4 +1,4 @@
-# _Full Stack Web Developer Project / Arashi Walker_
+# _Full Stack Web Developer Project_
 
 #### _iCivics Tic Tac Toe, 11/12/2020_
 
@@ -23,16 +23,17 @@ You can submit your program in any language you choose, be it Java, Javascript, 
 * score tracker updating scores of player(c), player(i) & tie games.
 
 ## Live Server Port / Game Board 
-===
 
 * Click link to play game! : http://127.0.0.1:5501/index.html
 
-![alt text](https://github.com/arashiwalker/iCivicstictactoe/blob/master/imgages/iCivicsboard.PNG)
+![iCivicsboard](https://user-images.githubusercontent.com/43917280/99006492-667e3000-24f7-11eb-842d-0d8e7f070c2f.PNG)
 
 
 ## Support and contact details
 
-_Arashi walker / phone (503)490-5479 / email arashiwalker@gmail.com / Portfolio https://arsahiwalker.com _
+* cell phone: (503)490-5479 
+* email: arashiwalker@gmail.com 
+* Portfolio: https://arsahiwalker.com 
 
 ## Technologies Used
 
