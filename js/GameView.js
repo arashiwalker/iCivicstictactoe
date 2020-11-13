@@ -20,12 +20,6 @@ export default class GameView {
                 <div class="board__tile" data-index="7"></div>
                 <div class="board__tile" data-index="8"></div>
             </div>
-            <div class="footer">
-                <div class="footer__c">Player(c) wins:</div>
-                <div class="footer__t">Tie Games:</div>
-                <div class="footer__i">Player(i) wins:</div>
-            </div
-
         `;
 
         this.onTileClick = undefined;
@@ -86,3 +80,5 @@ export default class GameView {
         }
     }
 }
+
+    

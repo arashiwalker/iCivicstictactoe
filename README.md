@@ -16,24 +16,32 @@ The program should:
 You can submit your program in any language you choose, be it Java, Javascript, Php, Python, or another language.  Include a simple explanation of your strategy.
 
 
-## functions / additional features 
+## Functions & Features
 
-* instead of using X's & O's going with the iCivics theme and using C's & i's.
-* refresh board feature using google icons 
-* score tracker updating scores of player(c), player(i) & tie games.
+* Game alternates active players
+* Active player identified on the page (The O or X is shown, depending on whose turn it is)
+* Games ends if player has 3 symbols in a row, or the board is full and no winner has been declared
+* Live Server extention for a development server to view application and automatically refresh when making changes.
+
+
+## Strategy 
+
+* Tic Tac Toe game using HTML / CSS / Javascript. Building simple app using mainly vanilla Javscript with no frameworks and taking advantage of ES6.
+* Modules / template strings / arrow functions / events / CSS flex box / CSS grid / MVC pattern / block element modifier
 
 ## Live Server Port / Game Board 
 
 * Click link to play game! : http://127.0.0.1:5501/index.html
 
-![iCivicsboard](https://user-images.githubusercontent.com/43917280/99006492-667e3000-24f7-11eb-842d-0d8e7f070c2f.PNG)
+![iCivicsboard](https://user-images.githubusercontent.com/43917280/99128030-95aba480-25be-11eb-9410-8e4a9aba7d20.PNG)
 
 
 ## Support and contact details
 
-* cell phone: (503)490-5479 
-* email: arashiwalker@gmail.com 
-* Portfolio: https://arsahiwalker.com 
+* Cell phone: (503) 490-5479 
+* Email: arashiwalker@gmail.com 
+* Linkedin: https://www.linkedin.com/in/arashi-walker-3b9272182/
+* Portfolio: https://arashiwalker.com 
 
 ## Technologies Used
 

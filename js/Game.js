@@ -1,13 +1,13 @@
 // what happens when you start a new game of tic tac toe
 export default class Game {
     constructor() {
-        this.turn = "C";
+        this.turn = "X";
         this.board = new Array(9).fill(null);
     }
 
 // toogles turn of game
     nextTurn() {
-        this.turn = this.turn === "C" ? "i" : "C";
+        this.turn = this.turn === "X" ? "O" : "X";
     }
 
     makeMove(i) {
@@ -39,6 +39,7 @@ export default class Game {
             [2, 4, 6]
         ];
 
+//checking for winning combination
         for (const combination of winningCombinations) {
             const [a, b, c] = combination;
 

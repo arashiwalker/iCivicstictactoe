@@ -10,7 +10,7 @@ body {
   }
 
 #app {
-    border: 1px solid black;
+    border: 3px solid black;
     width: 500px;
     height: 500px;
     font-family: sans-serif;
@@ -48,37 +48,6 @@ body {
     background: none;
     cursor: pointer;
 }
-
-.footer {
-    display: flex;
-    align-items: center;
-    background: #f89526;
-    padding: 6px;
-    
-}
-
-.footer > * {
-    color: #eeeeee;
-    flex-grow: 1;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 12px;
-}
-
-.footer__c {
- 
-}
-
-.footer__t {
-   
-}
-
-.footer__i {
- 
-}
-
 
 .board {
     display: grid;
