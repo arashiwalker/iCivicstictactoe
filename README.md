@@ -31,7 +31,7 @@ You can submit your program in any language you choose, be it Java, Javascript, 
 
 ## Live Server Port / Game Board 
 
-* Server Port : http://127.0.0.1:5501/index.html
+* Click link to play game! : https://arashiwalker.github.io/iCivicstictactoe/
 
 ![iCivicsboard](https://user-images.githubusercontent.com/43917280/99128030-95aba480-25be-11eb-9410-8e4a9aba7d20.PNG)
 
